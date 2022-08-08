@@ -1,7 +1,7 @@
 # Portofolio
 First Project Mahasiswa UNCP Angkatan 2019
 
-Admin 
+* Admin 
 
 Add Data Kelahiran
 
@@ -13,7 +13,7 @@ Edit User
 
 Edit Page
 
-Operator
+* Operator
 
 Add Data Kelahiran
 
