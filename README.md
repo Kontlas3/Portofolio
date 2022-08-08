@@ -20,6 +20,5 @@ Username : Admin
 Password : Admin
 
 - Operator Login -
-
 Username : Operator
 Password : Operator
